@@ -1,5 +1,5 @@
 
-<img src="images/Vishal Kamble Linkedin.png" alt="Linkedin Profile Banner" style="width: 100%; height: auto; max-width: 840px;">
+<img src="images/vishal-linkedin-banner.png" alt="Linkedin Profile Banner" style="width: 100%; height: auto; max-width: 840px;">
 
 <h1 align="center"> Hi there 👋, I'm Vishal Kamble </h1>
 
@@ -22,3 +22,9 @@
 </ul>  
 
 <h3> Connect with me </h3>
+<a href="https://www.linkedin.com/in/vishalkamble96/"><img src="images/linkedin-icon.png" alt="LinkedIn Icon" width="40" height="40" style="width: 40px; height: 40px;"></a>
+
+<h3> Languages & Tools </h3>
+<p>
+  <img src="images/linkedin-icon.png" alt="LinkedIn Icon" width="40" height="40" style="width: 40px; height: 40px;">
+</p>
