@@ -26,5 +26,9 @@
 
 <h3> Languages & Tools </h3>
 <p>
-  <img src="images/linkedin-icon.png" alt="LinkedIn Icon" width="40" height="40" style="width: 40px; height: 40px;">
-</p>
+  <a href="https://public.tableau.com/app/discover"><img src="images/tableau-icon.png" alt="Tableau Icon" width="40" height="40" style="width: 40px; height: 40px;"></a>
+  <a href="https://www.microsoft.com/en-in/microsoft-365/excel"><img src="images/excel-icon.png" alt="Excel Icon" width="40" height="40" style="width: 40px; height: 40px;"></a>
+  <a href="https://www.microsoft.com/en-in/sql-server"><img src="images/microsoft-sql-icon.png" alt="Microsoft SQL Icon" width="40" height="40" style="width: 40px; height: 40px;"></a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi"><img src="images/powerbi-icon.png" alt="PowerBI Icon" width="40" height="40" style="width: 40px; height: 40px;"></a>
+  <a href="https://www.python.org/"><img src="images/python-icon.png" alt="Python Icon" width="40" height="40" style="width: 40px; height: 40px;"></a>
+  
