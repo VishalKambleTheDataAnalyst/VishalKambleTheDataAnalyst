@@ -11,7 +11,7 @@
 
 <li> 🌐 Visit my <b> Website: </b><a href="https://vishalkamblethedataanalyst.github.io/" rel="nofollow"> vishalkamblethedataanalyst.github.io</a> </li>
 
-<li> 📁 Browse my <b> Portfolio Projects: </b> <a href=""> Data Analyst Portfolio Repository </a> </li>
+<li> 📁 Browse my <b> Portfolio Projects: </b> <a href="https://github.com/VishalKambleTheDataAnalyst/Data-Analyst-Portfolio-Repository"> Data Analyst Portfolio Repository </a> </li>
 
 <li> 📊 Check Out my <b> Tableau Dashboards: </b> <a href="https://public.tableau.com/app/profile/vishal3271/vizzes"> Vishal Kamble – Tableau Public </a> </li>
 
