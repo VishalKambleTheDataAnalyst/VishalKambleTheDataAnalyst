@@ -1,5 +1,5 @@
 
-<img src="images/banner.png" alt="Project Banner" width="840" height="200">
+<img src="images/Vishal Kamble Linkedin.png" alt="Linkedin Profile Banner" style="width: 100%; height: auto; max-width: 840px;">
 
 <h1 align="center"> Hi there 👋, I'm Vishal Kamble </h1>
 
@@ -7,7 +7,7 @@
 
 <ul>
 
-<li> 🔍 Currently Exploring: Python libraries like pandas, numpy, matplotlib, seaborn, plotly, and more — building projects and writing articles along the way. </li>
+<li> 🔍 Currently Exploring: Python libraries like pandas, numpy, matplotlib, seaborn, plotly, SQL Functions, and more — building projects and writing articles along the way. </li>
 
 <li> 🌐 Visit my <b> Website: </b><a href="https://vishalkamblethedataanalyst.github.io/" rel="nofollow"> vishalkamblethedataanalyst.github.io</a> </li>
 
@@ -20,3 +20,5 @@
 <li> 📰 Check my <b> Articles on Medium: </b> <a href="https://medium.com/@vishal.kamblepro96"> Read My Data Analytics Blogs </a> </li>
 
 </ul>  
+
+<h3> Connect with me </h3>
