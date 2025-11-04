@@ -1,5 +1,5 @@
 
-<img src="images/vishal-linkedin-banner.png" alt="Linkedin Profile Banner" style="width: 100%; height: auto; max-width: 840px;">
+<img src="images/Vishal Kamble Data Analyst Banner.png" alt="Vishal Kamble Github Banner" style="width: 100%; height: auto; max-width: 840px;">
 
 <h1 align="center"> Hi there 👋, I'm Vishal Kamble </h1>
 
